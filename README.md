@@ -1,8 +1,6 @@
-# ⚠️ NOTICE: This project is no longer being maintained.
-This fork is no longer maintained and may have bugs. Feel free to fork, however no pull request or bug report will be answered.  
-
-Sincerest apologies, but we no longer have the time to maintain this fork. We strongly encourage anyone who needs this to find alternative solutions to the VFX Graph on the builtin pipeline.
-
+# Not maintained:
+This fork is not currently maintained and may have bugs. Feel free to fork, however no pull request or bug report will be answered.  
+Currently 04/07/2024 this project does not compile and has active errors. We will get around to fixing them shortly.
 
 # What's this?
 This repo is a fork of Unity's VFX Graph v10.3.2, back porting features from the later versions of the VFX Graph.
