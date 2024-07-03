@@ -1,5 +1,7 @@
 # Not maintained:
-This fork is not currently maintained and may have bugs. Feel free to fork, however no pull request or bug report will be answered.  
+This fork is not currently maintained and may have bugs.
+Feel free to fork, however pull request or bug reports will not be answered.
+
 Currently 04/07/2024 this project does not compile and has active errors. We will get around to fixing them shortly.
 
 # What's this?
